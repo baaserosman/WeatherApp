@@ -1,9 +1,6 @@
 # hi you can also [Weatherapp](http://bascher.pythonanywhere.com/) 
 
 
-<h1 align="center">Weatherapp </h1>
-
-
 <div align="center">
   <h3>
    
