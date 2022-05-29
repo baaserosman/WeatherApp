@@ -1,10 +1,12 @@
-# hi you can also [Weatherapp](http://bascher.pythonanywhere.com/) 
-
 
 <div align="center">
-  <h3>
-   
+  <h1>
+   Weather App
+  </h1>
+  <h3> 
+  <a href="http://bascher.pythonanywhere.com/">http://bascher.pythonanywhere.com/</a>
   </h3>
+  
 </div>
 
 <!-- TABLE OF CONTENTS -->
