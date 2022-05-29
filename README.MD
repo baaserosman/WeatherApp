@@ -1,4 +1,4 @@
-# weatherapp-Django
+# WeatherApp
 
 # hi you can also [Weatherapp](http://bascher.pythonanywhere.com/) 
 
