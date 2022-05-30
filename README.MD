@@ -33,7 +33,6 @@
 
 - HTML
 - CSS
-- JS
 - Django
 
 ## How To Use
